@@ -14,7 +14,7 @@
 <img src="https://komarev.com/ghpvc/?username=Allegsu&style=flat-square&color=blue" alt=""/>
 <h1>
 Oh! you're reading this... Hi mate...
-<img src="https://media.giphy.com/media/DiIxyaloyBVxKps4Nn/giphy.gif" width="50" height"50"/>
+<img src="https://media.giphy.com/media/DiIxyaloyBVxKps4Nn/giphy.gif" width="150" height"150"/>
 </h1>
 <div align="center">
 <img src="https://media.giphy.com/media/Av0z9tdsBvFPLnnHz3/giphy.gif" width="800" height"400"/>
