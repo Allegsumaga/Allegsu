@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/idMI5FlCVSykPFVN5P/giphy.gif" width="700"/>
 </div>
 <div id="badges">
-<img src="https://komarev.com/ghpvc/?Allegsu=your-github-Allegsu&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Allegsu&style=flat-square&color=blue" alt=""/>
 <a href="https://www.epicgames.com/site/en-US/home">
 <img src="https://img.shields.io/badge/EpicGames-black?logo=EpicGames&logoColor=white&style=for-the-badge"/>
 </a>
