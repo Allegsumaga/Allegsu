@@ -16,5 +16,8 @@
 Oh! you're reading this... Hi mate...
 <img src="https://media.giphy.com/media/DiIxyaloyBVxKps4Nn/giphy.gif"/>
 </h1>
+<div align="center">
+<img src="https://media.giphy.com/media/Av0z9tdsBvFPLnnHz3/giphy.gif" width="800" height"400"/>
+</div>
 </a>
 </div>
