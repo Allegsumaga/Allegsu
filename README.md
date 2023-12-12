@@ -12,5 +12,9 @@
 <a href="https://www.nintendo.co.uk/">
 <img src="https://img.shields.io/badge/Nintendo-red?logo=Nintendo&logoColor=white&style=for-the-badge"/>
 <img src="https://komarev.com/ghpvc/?username=Allegsu&style=flat-square&color=blue" alt=""/>
+<h1>
+'Sup Mates 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </a>
 </div>
