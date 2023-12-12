@@ -22,13 +22,13 @@ Oh! you're reading this... Hi mate...
 :technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m a Software Developer but I’m still a student & keep learning fronted and backend for build applications. 
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring & making visual enchanted content.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: My hobbies are playing games, read & study or solve issues through random codes or applications. 
 
-- :mailbox:How to reach me: 
+- :mailbox: How to reach me: Working on that…
 
 </div>
 </a>
