@@ -12,6 +12,7 @@
 <a href="https://www.nintendo.co.uk/">
 <img src="https://img.shields.io/badge/Nintendo-red?logo=Nintendo&logoColor=white&style=for-the-badge"/>
 <img src="https://komarev.com/ghpvc/?username=Allegsu&style=flat-square&color=blue" alt=""/>
+</a>
 <h1>
 Oh! you're reading this... Hi mate...
 <img src="https://media.giphy.com/media/DiIxyaloyBVxKps4Nn/giphy.gif" width="100" height"100"/>
@@ -20,7 +21,8 @@ Oh! you're reading this... Hi mate...
 <img src="https://media.giphy.com/media/Av0z9tdsBvFPLnnHz3/giphy.gif" width="800" height"400"/>
 
 :technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
+
+I’m improving myself to be a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
 
 - :telescope: I’m a Software Developer but I’m still a student & keep learning fronted and backend for build applications. 
 
@@ -31,5 +33,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :mailbox: How to reach me: Working on that…
 
 </div>
-</a>
 </div>
