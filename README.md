@@ -22,7 +22,7 @@ Oh! you're reading this... Hi mate...
 
 About Me :
 
-I’m improving myself to be a Full Stack Developer from Spain. <img src="https://media.giphy.com/media/febLLPjtNPmRBYJNfR/giphy.gif?cid=ecf05e470jtefqf1uxc6qc8m6zyhgjwl8nntm75zvzjkd3bm&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50">
+I’m improving myself to be a Full Stack Developer who born in Spain. <img src="https://media.giphy.com/media/febLLPjtNPmRBYJNfR/giphy.gif?cid=ecf05e470jtefqf1uxc6qc8m6zyhgjwl8nntm75zvzjkd3bm&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50">
 
 - :telescope: I’m a Software Developer but I’m still a student & keep learning fronted and backend for build applications. 
 
