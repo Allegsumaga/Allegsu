@@ -60,11 +60,15 @@
 <h1>
 Oh! you're reading this... Hi mate... <img src="https://media.giphy.com/media/QYY3HjM2qPGPm0Hf4y/giphy.gif" width="60"/>
 </h1>
+
 <div align="center">
 <img src="https://media.giphy.com/media/RGjyt5la9npHFAdkDj/giphy.gif" width="800" height"400"/>
 
-About Me :
+<p align="center">
+<Strong><img src="https://media.giphy.com/media/YnUcQkUvPdHMmkLBZn/giphy.gif" width="40"> About Me : <img src="https://media.giphy.com/media/YnUcQkUvPdHMmkLBZn/giphy.gif" width="40"> </Strong><br>
+</p>
 
+<p align="center" display="inline-block">
 I’m improving myself to be a Full Stack Developer who born in Spain. 
 
 - :telescope: I’m a Software Developer but I’m still a student & keep learning fronted and backend for build applications. 
@@ -74,6 +78,7 @@ I’m improving myself to be a Full Stack Developer who born in Spain.
 - :zap: My hobbies are playing games, read & study or solve issues through random codes or applications. 
 
 - :mailbox: How to reach me: Working on that…
+</p>
 
 </div>
 </div>
