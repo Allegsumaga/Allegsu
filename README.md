@@ -73,7 +73,7 @@ I’m improving myself to be a Full Stack Developer who born in Spain.
 
 - :zap: My hobbies are playing games, read & study or solve issues through random codes or applications. 
 
-- :mailbox: How to reach me: Working on that…
+- :mailbox: How to reach me: working on that…
 
 </div>
 </div>
