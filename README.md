@@ -61,7 +61,7 @@
 Oh! you're reading this... Hi mate... <img src="https://media.giphy.com/media/QYY3HjM2qPGPm0Hf4y/giphy.gif" width="60"/>
 </h1>
 <div align="center">
-<img src="https://media.giphy.com/media/Av0z9tdsBvFPLnnHz3/giphy.gif" width="800" height"400"/>
+<img src="https://media.giphy.com/media/RGjyt5la9npHFAdkDj/giphy.gif" width="800" height"400"/>
 
 About Me :
 
