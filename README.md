@@ -78,6 +78,8 @@ I’m improving myself to be a Full Stack Developer who born in Spain.
 - :zap: My hobbies are playing games, read & study or solve issues through random codes or applications. 
 
 - :mailbox: How to reach me: Working on that…
+
+For short if you want to know more about me don't hesitate to contact me I'm free to work along with a company who is looking a beginner developer who want to keep learning.
 </p>
 
 </div>
