@@ -58,15 +58,14 @@
 </p>
 
 <h1>
-Oh! you're reading this... Hi mate...
-<img src="https://media.giphy.com/media/DiIxyaloyBVxKps4Nn/giphy.gif" width="100" height"100"/>
+Oh! you're reading this... Hi mate... <img src="https://media.giphy.com/media/QYY3HjM2qPGPm0Hf4y/giphy.gif?cid=ecf05e47y11d9m3jmftevg2ge8v3k0sn2j78vkpwtnhae68y&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"/>
 </h1>
 <div align="center">
 <img src="https://media.giphy.com/media/Av0z9tdsBvFPLnnHz3/giphy.gif" width="800" height"400"/>
 
 About Me :
 
-I’m improving myself to be a Full Stack Developer who born in Spain. <img src="https://media.giphy.com/media/febLLPjtNPmRBYJNfR/giphy.gif?cid=ecf05e470jtefqf1uxc6qc8m6zyhgjwl8nntm75zvzjkd3bm&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50">
+I’m improving myself to be a Full Stack Developer who born in Spain. 
 
 - :telescope: I’m a Software Developer but I’m still a student & keep learning fronted and backend for build applications. 
 
