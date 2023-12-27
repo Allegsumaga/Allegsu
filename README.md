@@ -15,8 +15,8 @@
 <img src="https://img.shields.io/badge/PlayStation-darkblue?logo=PlayStation&logoColor=white&style=for-the-badge"/>
 
 </a>
-<a href="https://www.nintendo.co.uk/">
-<img src="https://img.shields.io/badge/Nintendo-red?logo=Nintendo&logoColor=white&style=for-the-badge"/>
+<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjf3fix2a6DAxW5JUQIHVvYDRsQFnoECBUQAQ&url=https%3A%2F%2Fmusic.apple.com%2Fsb%2Fplaylist%2Ftop-100-uk%2Fpl.c2273b7e89b44121b3093f67228918e7&usg=AOvVaw1qAZqDYVoYD13YEziNvfAy&opi=89978449">
+<img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white"/>
 </a>
 <a href="https://www.apple.com/uk/">
 <img src="https://img.shields.io/badge/Apple-black?logo=Apple&logoColor=white&style=for-the-badge"/>
