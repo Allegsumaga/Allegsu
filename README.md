@@ -1,6 +1,6 @@
 # Alejandro 🇪🇸 / Allegsu 🇰🇷 <3
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/febLLPjtNPmRBYJNfR/giphy.gif?cid=ecf05e470jtefqf1uxc6qc8m6zyhgjwl8nntm75zvzjkd3bm&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="400"/>
+  <img src="https://media.giphy.com/media/XeA1Ahjfh5sUs4KzhM/giphy.gif?cid=ecf05e47jdidrxn4b0jcdjk4jocubvfks4l7yki6trs4yq3i&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="400"/>
 </div>
 
 <p align="center">
